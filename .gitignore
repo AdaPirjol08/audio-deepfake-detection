@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.npy
+*.h5
+*.deb
+venv/
+.env
+DS_10283_3336/
+LA/
+PA/
